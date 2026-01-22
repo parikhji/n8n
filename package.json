@@ -1,0 +1,8 @@
+package.json:
+{
+  "name": "n8n",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx n8n start"
+  }
+}
